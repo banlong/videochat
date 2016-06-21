@@ -1,0 +1,21 @@
+{
+  "name": "webrtc-chat",
+  "version": "1.0.0",
+  "description": "Simple chat app using WebRTC",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sher Minn Chong",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-serve": "^0.1.6",
+    "node-static": "^0.7.7"
+  },
+  "dependencies": {
+    "node-static": "^0.7.7",
+    "socket.io": "^1.3.6"
+  }
+}
